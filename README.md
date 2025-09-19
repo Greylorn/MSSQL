@@ -22,7 +22,7 @@ A cross-platform, fully-featured offensive security utility that streamlines enu
 
 ```bash
 #–– Clone & build (Linux example)
-$ git clone [https://github.com/Greylorn/MSSQL.git](https://github.com/Greylorn/MSSQL.git)
+$ git clone https://github.com/Greylorn/MSSQL.git
 $ cd MSSQL-Tool/MSSQL
 $ ./build.sh linux-x64           # produces bin/publish-linux-x64/MSSQL
 
